@@ -9,6 +9,8 @@
     "license": [
         "Commercial"
     ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
